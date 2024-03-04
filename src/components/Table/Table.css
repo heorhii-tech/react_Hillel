@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+table {
+    border-collapse: collapse;
+    margin: 0 auto;
+
+
+
+}
+
+tbody {
+    border-spacing: 0;
+
+}
+
+tr {
+    border: none;
+
+}
+
+td,
+th {
+    padding: 10px;
+
+    border: 1px solid black;
+
+}
+
+ul {
+    padding: 20px;
+}
+
+.main_section {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+#root {
+
+    width: 30%;
+
+}
