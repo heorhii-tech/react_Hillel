@@ -1,18 +1,18 @@
-import List from './components/List/List.jsx'
 
-const animals = [
-  { type: `turtle`, icon: `🐢` },
-  { type: `octopus`, icon: `🐙` },
-  { type: `fish`, icon: `🐠` },
-  { type: `flamingo`, icon: `🦩` },
-  { type: `penguin`, icon: `🐧` }
-]
+
+import List from './components/List/List.jsx';
+
+
+
 
 function App() {
 
 
   return (
-    <List list={animals} />
+    <>
+      <List></List>
+
+    </>
   )
 }
 

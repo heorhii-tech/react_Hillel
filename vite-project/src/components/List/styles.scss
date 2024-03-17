@@ -1,9 +1,29 @@
-.active {
-    color: green;
-    font-weight: bold;
+.list {
+    display: flex;
+    gap: 10px
 }
 
-table {
-    border: solid black;
-    border-width: 0px;
+form {
+    display: flex;
+    gap: 10px;
+
+
+
+
+
+    input[type='checkbox'] {
+        width: 30px;
+        height: 15px;
+
+    }
+
+}
+
+button {
+    cursor: pointer;
+}
+
+input {
+    cursor: pointer;
+
 }
