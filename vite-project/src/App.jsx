@@ -1,6 +1,7 @@
+import List from "./components/List.jsx/List"
 
 
-import List from './components/List/List.jsx';
+
 
 
 
@@ -11,6 +12,7 @@ function App() {
   return (
     <>
       <List></List>
+
 
     </>
   )

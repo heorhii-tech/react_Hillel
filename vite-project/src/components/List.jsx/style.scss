@@ -1,0 +1,14 @@
+.box {
+    border: 2px solid black;
+    min-height: 200px;
+    width: 200px;
+}
+
+.box_wrapper {
+    display: flex;
+    gap: 20px;
+}
+
+button {
+    margin-left: 5px 5px;
+}
